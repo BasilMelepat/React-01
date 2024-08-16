@@ -12,7 +12,7 @@ function LoginBox() {
             <CustomInput name={"password"} label={"Password"} type={"password"}/>
             <CustomButton label={'Login'} />
         </div>
-  );
+    );
 };
 
 export default LoginBox;

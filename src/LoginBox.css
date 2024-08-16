@@ -1,15 +1,15 @@
 .login-box {
-    display: flex;
-    flex-direction: column;
-    max-width: 500px;
-    padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    background-color: #f9f9f9;
-    height: fit-content;
-  }
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  height: fit-content;
+}
     
-  .login-box h2 {
-    margin-bottom: 20px;
-    color: #343a40;
-  }
+.login-box h2 {
+  margin-bottom: 20px;
+  color: #343a40;
+}
