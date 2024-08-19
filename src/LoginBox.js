@@ -6,7 +6,7 @@ import CustomInput from './Common/CustomInput';
 function LoginBox() {
 
     return (
-        <div className="login-box">
+        <div className="login-box container mt-6">
             <h2 className="text-center">Login</h2>
             <CustomInput name={"userName"} label={"User Name"} type={"text"}/>
             <CustomInput name={"password"} label={"Password"} type={"password"}/>

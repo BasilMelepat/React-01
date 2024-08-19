@@ -6,7 +6,7 @@ import CustomInput from './Common/CustomInput';
 function SignupBox() {
 
   return (
-    <div className="signup-box">
+    <div className="signup-box container mt-5">
       <h2 className="text-center">Sign Up</h2>
       <CustomInput name={"fullName"} label={"Full Name"} type={'text'}/>
       <CustomInput name={"userName"} label={"Username"} type={'text'}/>
